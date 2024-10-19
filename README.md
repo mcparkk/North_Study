@@ -1,8 +1,70 @@
-## 인터넷
-- DNS와 그 작동원리
-- 호스팅이란
+## 네트워크
+- DNS와 그 작동원리 ✅
+- 호스팅이란 ✅
 - HTTP와  HTTPS ✅
-- 브라우자와 그 작동원리
+- 브라우저와 그 작동원리
+- OSI 7계층
+- TCP, UDP
+    - ~~TCP/IP 흐름제어&혼잡제어~~
+- 로드밸런싱
+- 공개키 암호화 & 대칭키 암호화
+- 웹 통신 흐름
+- 쿠키와 세션 차이
+
+
+## 자료구조
+- Collections
+    - 배열, 동적배열, 연결리스트
+- 스택과 큐
+    - 우선순위 큐
+- Tree
+    - B Tree 와 B+ Tree
+    - 이진 탐색 트리
+    - AVL 트리
+- Heap
+- Hash
+
+## API
+- RESTful
+    - JSON API
+- gRPC
+ 
+## 인증
+- OAuth
+- LDAP
+- 2FA
+
+## 캐시
+- 서버사이드(Redis)
+- 클라이언트 사이드
+
+## 웹 보안 지식
+- 해시 알고리즘
+    - MD5와 사용하지 않는 이유
+    - SHA 함수군
+    - scrypt
+    - bcrypt
+- HTTPS
+- 콘텐츠보안정책(SCP)
+- CORS
+- OWASP 보안 취약점
+
+## 테스트
+- 단위, 통합, 기능 테스트
+
+## 메시지 브로커
+- Kafka
+
+## 컨테이너화, 가상화
+- Docker & Kubernetes
+
+## 웹 서버
+- Apache
+
+## 알고리즘
+
+## 인프라
+- CDN
 
 ## 운영체제
 - 바이트 오더
@@ -24,63 +86,3 @@
 - 스핀락, 세마포어, 뮤텍스
 - 페이지 교체 알고리즘
 - 단편화
-
-## 자료구조
-- 배열, 동적배열, 연결리스트
-- 스택과 큐
-- 우선순위 큐
-- Tree
-- Heap
-- B Tree 와 B+ Tree
-- Hash
-- List, Map, Set
-- 이진 탐색 트리
-- AVL 트리
-
-## 네트워크
-- OSI 7계층
-- TCP, UDP
-- TCP/IP 흐름제어&혼잡제어
-- 로드밸런싱
-- 공개키 암호화 & 대칭키 암호화
-- RESTful의미, 설계규칙
-- GET, POST 방식 차이
-- 웹 통신 흐름
-- 쿠키와 세션 차이
-
-## API
-- REST
-- JSON API
-- gRPC
-- 인증( OAut, Basic 인증, 토큰 인증, JWT )
-
-## 캐시
-- CDN
-- 서버사이드(Redis)
-- 클라이언트 사이드
-
-## 웹 보안 지식
-- 해시 알고리즘
-    - MD5와 사용하지 않는 이유
-    - SHA 함수군
-    - scrypt
-    - bcrypt
-- HTTPS
-- 콘텐츠보안정책(SCP)
-- CORS
-- SS/TLS
-- OWASP 보안 취약점
-
-## 테스트
-- 단위,통합,기능 테스트
-
-## 메시지 브로커
-- Kafka
-
-## 컨테이너화, 가상화
-- Docker & Kubernetes
-
-## 웹 서버
-- Apache
-
->알고리즘
