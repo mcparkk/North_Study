@@ -11,16 +11,11 @@
 - 브라우저와 그 작동원리
 
 ## 자료구조
-- Collections
-    - 배열, 동적배열, 연결리스트
+- Collections ✅
 - 스택과 큐
-    - 우선순위 큐
-- Tree
-    - B Tree 와 B+ Tree
-    - 이진 탐색 트리
-    - AVL 트리
+- Tree ✅
 - Heap
-- Hash
+- Hash ✅
 
 ## API
 - RESTful
