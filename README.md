@@ -21,15 +21,18 @@
 - RESTful
     - JSON API
 - gRPC
+- API G/W
  
 ## 인증
 - OAuth
 - LDAP
 - 2FA
+- SAML
 
 ## 캐시
 - 서버사이드(Redis)
 - 클라이언트 사이드
+- CDN
 
 ## 웹 보안 지식
 - 공개키 암호화 & 대칭키 암호화
@@ -51,14 +54,22 @@
 
 ## 컨테이너화, 가상화
 - Docker & Kubernetes
+- DaaS(Desktop as a Service)
+- AWS S3
+- AWS EC2
 
 ## 웹 서버
 - Apache
 
 ## 알고리즘
+- 탐색
+  - DFS
+  - BFS
+- 정렬
+- DP(동적 계획법)
 
 ## 인프라
-- CDN
+- 방화벽
 
 ## 운영체제
 - 바이트 오더
